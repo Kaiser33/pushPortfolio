@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.zip
+*.jpg
+*.jpeg
+*.png
+*.webp
+.env
+.DS_Store
+*.tsbuildinfo
